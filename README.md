@@ -9,6 +9,14 @@ This particular template features common elements such as `header`, `aside`, and
 of a masthead. These elements, while common across the web, are presented here
 in an opinionated form. Below is a discussion of design choice decisions.
 
+## Demo
+
+A demo version of this template is available at the following URL:
+
+https://alpha-template-one.netlify.app/
+
+It reflects the latest updates along with the options `vibes` class applied to the body.
+
 ## Mobile Responsiveness
 
 This template uses the Boostrap Grid system to organize content using the standard
