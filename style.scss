@@ -13,11 +13,13 @@
 
 .page-wrapper{
   margin-top: var(--alpha-header);
+  min-height: calc(100vh - var(--alpha-header));
+  display: flex;
+  flex-direction: column;
 }
 
 /** Force footer to bottom of page **/
 body{
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   font-family: monospace;
