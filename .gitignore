@@ -2,3 +2,5 @@
 *.iml
 *scratch.*
 ref
+scratch
+/scratch/

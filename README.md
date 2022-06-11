@@ -13,7 +13,7 @@ in an opinionated form. Below is a discussion of design choice decisions.
 
 A demo version of this template is available at the following URL:
 
-https://alpha-template-one.netlify.app/
+https://www.alpharithms.com/demos/alphaweb/index.html
 
 It reflects the latest updates along with the options `vibes` class applied to the body.
 
